@@ -103,10 +103,7 @@ Feel free to explore the repository, submit pull requests, or raise issues if yo
 
 ---
 
-## License
 
-This project is licensed under the MIT License. Feel free to use the code and examples provided.
 
----
 
 **Explore more in the [GitHub repository](https://github.com/imanasmd/python_automation.git).**
